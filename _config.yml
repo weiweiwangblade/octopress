@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.emsym.com
+title: "昂信嵌入式"
+subtitle: "加速智能设备开发进程"
+author: "苏州昂信科技有限公司"
 simple_search: https://www.google.com/search
 description:
 
